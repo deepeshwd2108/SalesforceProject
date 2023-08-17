@@ -4,3 +4,6 @@
 [submodule "Kapiva"]
 	path = Kapiva
 	url = https://github.com/skwarpdrive/Kapiva.git
+[submodule "Simplilearn"]
+	path = Simplilearn
+	url = https://github.com/skwarpdrive/Simplilearn.git
